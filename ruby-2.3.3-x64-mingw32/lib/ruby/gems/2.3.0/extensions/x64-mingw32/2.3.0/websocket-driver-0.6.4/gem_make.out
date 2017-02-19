@@ -1,0 +1,16 @@
+current directory: C:/ruby_env/ruby-2.3.3-x64-mingw32/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+C:/ruby_env/ruby-2.3.3-x64-mingw32/bin/ruby.exe -r ./siteconf20170112-6688-em8njr.rb extconf.rb
+creating Makefile
+
+current directory: C:/ruby_env/ruby-2.3.3-x64-mingw32/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: C:/ruby_env/ruby-2.3.3-x64-mingw32/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+generating websocket_mask-x64-mingw32.def
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: C:/ruby_env/ruby-2.3.3-x64-mingw32/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20170112-6688-124oqo6
